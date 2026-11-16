@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Asimov V1 Robot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/asimov-v1-robot)
+[![Download Asimov V1 Robot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/yD65pZeELfHHP8iqW)
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="center">
 
-[![Download Asimov V1 Robot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/asimov-v1-robot)
+[![Download Asimov V1 Robot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/yD65pZeELfHHP8iqW)
 
 </div>
 
@@ -340,7 +340,7 @@ Build your own humanoid robot for free. **Asimov V1 Robot Updated** gives you 3D
 
 <div align="center">
 
-[![Download Asimov V1 Robot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/asimov-v1-robot)
+[![Download Asimov V1 Robot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/yD65pZeELfHHP8iqW)
 
 **Version 1.0.3** — Free open-source humanoid robot design. May 2026 update. Zero cost. No payment.
 
